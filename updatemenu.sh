@@ -76,5 +76,7 @@ echo -e "$COLOR1 ${NC}  $COLOR1[INFO]${NC} INSTALL UPDATE MENU [done]"
 echo -e "       ➢ Update All Menu" 
 echo -e "       ➢ Fix All Bug"
 echo -e "       ➢ New fitur"
-
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
      
